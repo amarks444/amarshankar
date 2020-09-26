@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amarshankar/static/css/main.592d0fa7.chunk.css",
+    "main.js": "/amarshankar/static/js/main.7709c80f.chunk.js",
+    "main.js.map": "/amarshankar/static/js/main.7709c80f.chunk.js.map",
+    "runtime-main.js": "/amarshankar/static/js/runtime-main.96f58935.js",
+    "runtime-main.js.map": "/amarshankar/static/js/runtime-main.96f58935.js.map",
+    "static/js/2.e6e4901c.chunk.js": "/amarshankar/static/js/2.e6e4901c.chunk.js",
+    "static/js/2.e6e4901c.chunk.js.map": "/amarshankar/static/js/2.e6e4901c.chunk.js.map",
+    "index.html": "/amarshankar/index.html",
+    "precache-manifest.c97d5a2fe1cb20ecaf625c91abb9b201.js": "/amarshankar/precache-manifest.c97d5a2fe1cb20ecaf625c91abb9b201.js",
+    "service-worker.js": "/amarshankar/service-worker.js",
+    "static/css/main.592d0fa7.chunk.css.map": "/amarshankar/static/css/main.592d0fa7.chunk.css.map",
+    "static/js/2.e6e4901c.chunk.js.LICENSE.txt": "/amarshankar/static/js/2.e6e4901c.chunk.js.LICENSE.txt",
+    "static/media/amar.jpeg": "/amarshankar/static/media/amar.5b9b4c10.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96f58935.js",
+    "static/js/2.e6e4901c.chunk.js",
+    "static/css/main.592d0fa7.chunk.css",
+    "static/js/main.7709c80f.chunk.js"
+  ]
+}
